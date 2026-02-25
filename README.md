@@ -26,13 +26,13 @@ The first case study tests whether we observe the same h_stop(theta) dependance 
 
 ## 1. Initial configuration
 
-To run each case, use the provided data files:
+To run each case, use the provided data files (H denotes the height):
 
-`InitialConfiguration/H*A*.data`
+`InitialConfiguration/H*.data`
 
 This file defines the initial particle positions (columns 1-3) and radii (column 7) of the particles.
 
-The first **114 particles** are the rough base; their positions must remain fixed. All remaining particles are flowing grains, and should be free to move.
+The first **289 particles** are the rough base; their positions must remain fixed. All remaining particles are flowing grains, and should be free to move.
 
 The parameters of the simulations are described in the benchmark description (and can also be found in the paper referenced above). For clarity, I have also attached a file with all simulation settings: `InitialConfiguration/H40A24.restart`. Participants should reproduce these parameters as closely as possible in their own DEM code.
 
