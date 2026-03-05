@@ -15,7 +15,7 @@ submit**.
 ## 1. The case study
 
 We will run chute flows with varying inclinations and heights. In total we run ten cases:
-- height 20, 18, 16, 14 at inclination 21 degree; the flows of height 20 and 18 should arrest, whereas the flows at height 16 and 14 should flow (though there might be some variation).
+- height 20, 18, 16, 14 at inclination 21 degree; the flows of height 20 and 18 should flow, whereas the flows at height 16 and 14 should arrest (though there might be some variation).
 - height 40 at inclinations 18, 20, 22, 24, 26, 28 degree; the flow of inclination 18 should arrest, whereas the flows at inclinations 20, 22, 24, 26, 28 degree should flow.
 
 A full diagram of what heights and inclinations should arrest can be found here (Figure 4):
